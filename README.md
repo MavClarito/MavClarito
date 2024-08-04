@@ -1,5 +1,6 @@
 
-![Uploading 28Kb (1).gif…]()
+
+![28Kb](https://github.com/user-attachments/assets/2f355a30-4b62-455a-9fb1-28c97c383aa0)
 
 # Hello! I'm Maverick Clarito
 
