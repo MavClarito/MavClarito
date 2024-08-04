@@ -20,6 +20,7 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavClarito&show_icons=true&theme=algolia)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MavClarito&layout=donut-vertical&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
