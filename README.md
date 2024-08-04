@@ -9,6 +9,7 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 
 👾 I am interested on how video games were made such as concepts, gameplay, logic, features, and many more. I am also competitive in video games such as Valorant, League of Legends and CSGO.
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/407654387612254210)
 # 💻 Tech Stack:
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MavClarito&rank_icon=github&show_icons=true&theme=github_dark#gh-dark-mode-only) 
 
