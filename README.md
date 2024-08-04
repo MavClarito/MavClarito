@@ -1,4 +1,5 @@
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/28Kb.gif)" />
+
+![Uploading 28Kb (1).gif…]()
 
 # Hello! I'm Maverick Clarito
 
