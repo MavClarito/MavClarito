@@ -1,4 +1,5 @@
-![28Kb](https://github.com/user-attachments/assets/2f355a30-4b62-455a-9fb1-28c97c383aa0)
+![1_xLaeDOtBcDuRtzo1H2q3zw](https://github.com/user-attachments/assets/fa5adff6-280e-4c9a-b5d1-cb5537f90035)
+
 
 # About me:
 
@@ -17,6 +18,11 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 ## 📁 Framework and main libraries used in Python:
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF5722.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+# 🏆 Achievements:
+| Champion Sumobot & Line Follower Competion |
+|---|
+|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="384" height="512">|
+
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavClarito&show_icons=true&theme=algolia)
@@ -25,21 +31,5 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 ---
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<!--
-**MavClarito/MavClarito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
