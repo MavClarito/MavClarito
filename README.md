@@ -1,4 +1,4 @@
-![9f926c8c220127d81c8ba6897aa8d5db](https://github.com/user-attachments/assets/95f5cc54-902c-4e7c-b85e-6467517df7e0)
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/28Kb.gif)" width="1080" height="1080" />
 
 # Hello! I'm Maverick Clarito
 
