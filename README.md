@@ -1,8 +1,6 @@
-
-
 ![28Kb](https://github.com/user-attachments/assets/2f355a30-4b62-455a-9fb1-28c97c383aa0)
 
-# Hello! I'm Maverick Clarito
+# About me:
 
 👋 Hello , I'm Vincent Maverick D. Clarito, you can call me Mav.
 
@@ -14,6 +12,9 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+# My Development Skills
+
+## Languages:
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MavClarito&show_icons=true&theme=algolia)
