@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/28Kb.gif)" width="1080" height="1080" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.gifer.com/28Kb.gif)" />
 
 # Hello! I'm Maverick Clarito
 
