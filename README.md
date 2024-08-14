@@ -1,5 +1,5 @@
 ![1_xLaeDOtBcDuRtzo1H2q3zw](https://github.com/user-attachments/assets/fa5adff6-280e-4c9a-b5d1-cb5537f90035)
-
+.
 # About me:
 
 I'm Vincent Maverick D. Clarito, you can call me Mav.
