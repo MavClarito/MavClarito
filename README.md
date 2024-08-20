@@ -26,8 +26,8 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 | Champion Sumobot & Line Follower Competion |
 |---|
 |<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="384" height="512">|
-| Certificate |
-| <img src = "https://github.com/MavClarito/MavClarito/blob/main/CISCO%202%20Certificatee.JPG"> |
+| Certificate/s |
+| <img src = "https://github.com/MavClarito/MavClarito/blob/main/CISCO%202%20Certificatee.JPG" width="384" height="512"> |
 
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
 
