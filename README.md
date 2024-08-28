@@ -27,7 +27,9 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 |---|
 |<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="384" height="512">|
 | Certificate/s |
-
+| ![git1](https://github.com/user-attachments/assets/eb1ae98b-cdcc-461b-90ba-c292b6bdf3a8) |
+| ![git2](https://github.com/user-attachments/assets/86f56837-a32c-4edb-bc39-0fc0330a8312) |
+| |![git3](https://github.com/user-attachments/assets/41278f12-baa7-40aa-b685-71d7c208280b) |
 
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
 
