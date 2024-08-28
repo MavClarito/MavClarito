@@ -23,13 +23,12 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF5722.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # 🏆 Achievements:
-| Champion Sumobot & Line Follower Competion |
-| ---|
-|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="384" height="512">|
-| Certificate/s |
-| <img src = "https://github.com/user-attachments/assets/eb1ae98b-cdcc-461b-90ba-c292b6bdf3a8" width="360" height="240"> | 
-| <img src = "https://github.com/user-attachments/assets/86f56837-a32c-4edb-bc39-0fc0330a8312" width="360" height="240"> | 
-| <img src = "https://github.com/user-attachments/assets/41278f12-baa7-40aa-b685-71d7c208280b" width="360" height="240"> |
+| Champion Sumobot & Line Follower Competion | Certificate/s |
+| ---| ---|
+|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="384" height="512">| <img src = "https://github.com/user-attachments/assets/41278f12-baa7-40aa-b685-71d7c208280b" width="360" height="240">| 
+| | <img src = "https://github.com/user-attachments/assets/eb1ae98b-cdcc-461b-90ba-c292b6bdf3a8" width="360" height="240"> |
+| | <img src = "https://github.com/user-attachments/assets/86f56837-a32c-4edb-bc39-0fc0330a8312" width="360" height="240"> | 
+
 
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
 
