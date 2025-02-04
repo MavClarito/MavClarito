@@ -18,11 +18,10 @@ I'm Vincent Maverick D. Clarito, you can call me Mav.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Embarcadero](https://img.shields.io/badge/IDE-Embarcadero-blue?logo=embarcadero)
 
 # 🏆 Achievements:
-| Champion Sumobot & Line Follower Competion | Other Certificate/s |
-| ---| ---|
-|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="350" height="470">| <img src = "https://github.com/user-attachments/assets/41278f12-baa7-40aa-b685-71d7c208280b" width="360" height="240">| 
-|<img src = "https://github.com/user-attachments/assets/af01a400-29e5-4bb0-8dce-c64e252f52e7" width="350" height="470"> | <img src = "https://github.com/user-attachments/assets/eb1ae98b-cdcc-461b-90ba-c292b6bdf3a8" width="360" height="240"> |
-| | <img src = "https://github.com/user-attachments/assets/86f56837-a32c-4edb-bc39-0fc0330a8312" width="360" height="240"> | 
+| Champion Sumobot & Line Follower Competion |
+| ---|
+|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="350" height="470">| 
+|<img src = "https://github.com/user-attachments/assets/af01a400-29e5-4bb0-8dce-c64e252f52e7" width="350" height="470"> | 
 
 
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
