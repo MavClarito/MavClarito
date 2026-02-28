@@ -10,10 +10,10 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Embarcadero](https://img.shields.io/badge/IDE-Embarcadero-blue?logo=embarcadero)
 
 Dive into one of my prestigious projects that my team and I made: https://algsat-47ca8.web.app/#/
-Info: Web app integrating satellite data and deep learning, detecting algal bloom levels in Laguna Lake.  
 | --- |
 |<img width="1894" height="920" alt="image" src="https://github.com/user-attachments/assets/7e9ad89c-cdad-45cb-8368-53b26aa0fc99" /> |
 | <img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/e68f875e-adf7-4273-8f03-a60ae3333eda" /> | 
+| Info: Web app integrating satellite data and deep learning, detecting algal bloom levels in Laguna Lake.  |
 
 # 🏆 Achievements:
 | Champion Sumobot & Line Follower Competion |
