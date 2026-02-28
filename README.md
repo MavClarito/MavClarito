@@ -1,6 +1,12 @@
 ![1_xLaeDOtBcDuRtzo1H2q3zw](https://github.com/user-attachments/assets/fa5adff6-280e-4c9a-b5d1-cb5537f90035)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/407654387612254210)
+
+Dive into one of my prestigious projects that my team and I made: https://algsat-47ca8.web.app/#/
+Info: Web app integrating satellite data and deep learning, detecting algal bloom levels in Laguna Lake.   
+| <img width="1894" height="920" alt="image" src="https://github.com/user-attachments/assets/7e9ad89c-cdad-45cb-8368-53b26aa0fc99" /> |
+| <img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/e68f875e-adf7-4273-8f03-a60ae3333eda" /> | 
+
 # 💻 Tech Stack:
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MavClarito&rank_icon=github&show_icons=true&theme=github_dark#gh-dark-mode-only) 
 
