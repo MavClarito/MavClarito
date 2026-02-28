@@ -11,15 +11,14 @@
 
 Dive into one of the projects that I am proud of: https://algsat-47ca8.web.app/#/
 | --- |
-|<img width="1894" height="920" alt="image" src="https://github.com/user-attachments/assets/7e9ad89c-cdad-45cb-8368-53b26aa0fc99" /> |
+| <img width="1894" height="920" alt="image" src="https://github.com/user-attachments/assets/7e9ad89c-cdad-45cb-8368-53b26aa0fc99" /> |
 | <img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/e68f875e-adf7-4273-8f03-a60ae3333eda" /> | 
 | Info: Web app integrating satellite data and deep learning, detecting algal bloom levels in Laguna Lake.  |
 
 # 🏆 Achievements:
-| Champion Sumobot & Line Follower Competion |
-| ---|
-|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="350" height="470">| 
-|<img src = "https://github.com/user-attachments/assets/af01a400-29e5-4bb0-8dce-c64e252f52e7" width="350" height="470"> | 
+| Cyber Fighter Champion & T.I.P GAWAD Awardee |
+| --- |
+|<img src = "https://github.com/MavClarito/MavClarito/blob/main/Sumobot%20and%20Line%20Follower%20Comp..jpg?raw=true" width="350" height="470"> <img src = "https://github.com/user-attachments/assets/af01a400-29e5-4bb0-8dce-c64e252f52e7" width="350" height="470"> | 
 
 
 [![](https://visitcount.itsvg.in/api?id=MavClarito&icon=0&color=0)](https://visitcount.itsvg.in)
