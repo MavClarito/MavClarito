@@ -17,11 +17,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-Dive into one of the projects that I am proud of: https://algsat-47ca8.web.app/#/
-| --- |
-| <img width="1894" height="920" alt="image" src="https://github.com/user-attachments/assets/7e9ad89c-cdad-45cb-8368-53b26aa0fc99" /> |
-| <img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/e68f875e-adf7-4273-8f03-a60ae3333eda" /> | 
-| Info: Web app integrating satellite data and deep learning, detecting algal bloom levels in Laguna Lake.  |
 
 # 🏆 Achievements:
 | Cyber Fighter Champion & T.I.P GAWAD Awardee |
